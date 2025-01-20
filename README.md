@@ -1,4 +1,4 @@
-# Wine Quality Dataset Project
+# Wine Quality Project
 ## 1. Project Overview
 ####  .Objective: Analyze and model wine quality data to identify factors influencing quality and predict wine ratings.
 ####  .Dataset: The Wine Quality dataset from the UCI Machine Learning Repository, containing attributes of red and white wines.

@@ -48,4 +48,4 @@
 #### .Experiment with deep learning models for prediction.
 ## 9.Links
 #### Dataset:https://github.com/chandana1798/Wine-Quality-Project/blob/main/winequality-red.csv
-#### Project:
+#### Project:https://github.com/chandana1798/Wine-Quality-Project/blob/main/wine%20quailty%20project.ipynb
